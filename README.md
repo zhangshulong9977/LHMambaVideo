@@ -1,3 +1,3 @@
-# LHMambaVideo
+# The overall architecture of LHMambaVideo
 
-![模型架构图](assert/fig1.png)
+![The overall architecture of LHMambaVideo](assert/fig1.png)
