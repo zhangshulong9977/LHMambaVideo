@@ -1,3 +1,3 @@
-# README
+#LHMambaVideo
 
-![The overall architecture of LHMambaVideo](assert/fig1.png)
+![LHMambaVideo](assert/fig1.png)
